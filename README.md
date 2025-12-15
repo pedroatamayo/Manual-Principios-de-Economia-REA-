@@ -41,33 +41,6 @@ Sección "Para Repasar": Se han unificado los resúmenes, términos clave y ejer
 
 Interactividad (Códigos QR): Se han añadido códigos QR en las secciones "Conéctalo" para facilitar el acceso a recursos web desde dispositivos móviles.
 
-📝 Notación Económica Adoptada
-Para evitar confusiones habituales en la enseñanza en español, se han tomado decisiones de notación específicas:
-
-
-
-Concepto	Inglés (Original)	Español (Esta edición)	Motivo
-Oferta	Supply (S)	O	Evitar anglicismos en gráficos.
-Demanda	Demand (D)	D	Coincidencia lingüística.
-Capital	Capital (K)	K	Evitar confusión con "Costes" (C).
-Trabajo	Labor (L)	L	Evitar confusión con "Tiempo" (T).
-✒️ Autoría y Créditos
-Adaptación y Edición:
-
-Pedro A. Tamayo Lorenzo - Profesor Titular de Universidad, Dpto. de Economía Aplicada y Gestión Pública (UNED).
-
-Revisión Académica: Este texto ha sido revisado por profesores con amplia experiencia docente para garantizar su rigor:
-
-
-Miryam González Rabanal (UNED)
-
-Ana Herrero Alcalde (UNED)
-
-Enrique Cebolla Vives (Centro Asociado Alzira - Valencia)
-
-Agradecimientos: Agradecimientos especiales al profesor Oriol Borrás-Gené (URJC) y al Grupo de trabajo de Repositorios de la REBIUN.
-
-
 Obra Original:
 
 Principles of Economics 3e por OpenStax, Rice University.
