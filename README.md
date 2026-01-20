@@ -1,48 +1,48 @@
 # Principios de Economía: Microeconomía (Edición en Español)
 Recurso Educativo Abierto (REA) / Open Educational Resource (OER) : Una adaptación al español de "Principles of Economics" (3ª Edición) de OpenStax.
 
-## 📖 Descripción del Proyecto
+## 📖 Descripción del proyecto
 
 Este repositorio aloja los materiales de una obra derivada basada en la tercera edición de Principles of Economics de OpenStax (Rice University). Esta edición en español ha sido desarrollada bajo la filosofía de los Recursos Educativos Abiertos (REA) para eliminar barreras económicas, fomentar la equidad en el acceso al conocimiento y facilitar la colaboración académica.
 
 El objetivo principal es ofrecer un manual de Introducción a la Economía riguroso, gratuito y accesible, adaptado específicamente a las necesidades terminológicas y pedagógicas del contexto académico hispanohablante.
 
 
-## ✨ Adaptaciones y Novedades
+## ✨ Adaptaciones y novedades
 
 A diferencia de una traducción literal, esta edición incorpora modificaciones sustanciales para mejorar la experiencia de aprendizaje:
 
-## 🛠️ Revisión y Actualización de Contenidos
+### 🛠️ Revisión y Actualización de Contenidos
 
-Traducción Técnica: Se ha priorizado la precisión terminológica y la claridad expositiva en español.
+Traducción técnica: se ha priorizado la precisión terminológica y la claridad expositiva en español.
 
-Actualización de Datos: Se han actualizado tablas y ejemplos con datos recientes (periodo 2016-2021, datos de 2023 y 2024), incluyendo la clasificación de rentas del Banco Mundial y el Index of Economic Freedom.
+Actualización de datos: se han actualizado tablas y ejemplos con datos recientes (periodo 2016-2021, datos de 2023 y 2024), incluyendo la clasificación de rentas del Banco Mundial y el Index of Economic Freedom.
 
-Contextualización: Adaptaciones al entorno europeo e hispano, como la aclaración sobre el rol del Banco Central Europeo (BCE) o el uso del sistema métrico (hectáreas en lugar de acres).
+Contextualización: adaptaciones al entorno europeo e hispano, como la aclaración sobre el rol del Banco Central Europeo (BCE) o el uso del sistema métrico (hectáreas en lugar de acres).
 
 Normas RAE: El texto sigue las normas de la Real Academia Española respecto al uso de mayúsculas tras dos puntos y la colocación de signos monetarios.
 
 
-## 📊 Gráficos y Visualización
+### 📊 Gráficos y Visualización
 
-Gráficos Recreados: Todos los gráficos han sido generados nuevamente para permitir ajustes de diseño y traducción completa de etiquetas, manteniendo la licencia CC-BY 4.0.
+Gráficos recreados: todos los gráficos han sido generados nuevamente para permitir ajustes de diseño y traducción completa de etiquetas, manteniendo la licencia CC-BY 4.0.
 
-Imágenes Renovadas: Las imágenes introductorias y de capítulos han sido reemplazadas por fotos de dominio público (Unsplash) y, en casos específicos, ilustraciones generadas mediante IA (Google Gemini) para apoyar conceptos visuales complejos.
+Imágenes renovadas: las imágenes introductorias y de capítulos han sido reemplazadas por fotos de dominio público (Unsplash) y, en casos específicos, ilustraciones generadas mediante IA (Google Gemini) para apoyar conceptos visuales complejos.
 
+Diseño limpio: se ha prescindido de elementos decorativos innecesarios para centrar la atención en el contenido.
 
-Diseño Limpio: Se ha prescindido de elementos decorativos innecesarios para centrar la atención en el contenido.
+### 🎓 Estructura Pedagógica
 
-🎓 Estructura Pedagógica
+Sección "Para Repasar": se han unificado los resúmenes, términos clave y ejercicios de autoevaluación en una única sección final por capítulo para facilitar el estudio.
 
-Sección "Para Repasar": Se han unificado los resúmenes, términos clave y ejercicios de autoevaluación en una única sección final por capítulo para facilitar el estudio.
+Interactividad (Códigos QR): se han añadido códigos QR en las secciones "Conéctalo" para facilitar el acceso a recursos web desde dispositivos móviles.
 
-Interactividad (Códigos QR): Se han añadido códigos QR en las secciones "Conéctalo" para facilitar el acceso a recursos web desde dispositivos móviles.
-
-Obra Original:
+## Obra Original:
 
 Principles of Economics 3e por OpenStax, Rice University.
 
-📄 Licencia
+## 📄 Licencia
+
 Este proyecto se distribuye bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 Usted es libre de:
