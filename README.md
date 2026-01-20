@@ -1,9 +1,8 @@
 Principios de Economía: Microeconomía (Edición en Español)
-Recurso Educativo Abierto (REA) / Open Educational Resource (OER) > Una adaptación al español de "Principles of Economics" (3ª Edición) de OpenStax.
+Recurso Educativo Abierto (REA) / Open Educational Resource (OER) : Una adaptación al español de "Principles of Economics" (3ª Edición) de OpenStax.
 
 📖 Descripción del Proyecto
 Este repositorio aloja los materiales de una obra derivada basada en la tercera edición de Principles of Economics de OpenStax (Rice University). Esta edición en español ha sido desarrollada bajo la filosofía de los Recursos Educativos Abiertos (REA) para eliminar barreras económicas, fomentar la equidad en el acceso al conocimiento y facilitar la colaboración académica.
-
 
 
 El objetivo principal es ofrecer un manual de Introducción a la Economía riguroso, gratuito y accesible, adaptado específicamente a las necesidades terminológicas y pedagógicas del contexto académico hispanohablante.
