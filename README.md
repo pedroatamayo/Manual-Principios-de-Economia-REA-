@@ -52,3 +52,5 @@ Compartir — copiar y redistribuir el material en cualquier medio o formato.
 Adaptar — remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercial.
 
 Debe otorgar el crédito apropiado, proporcionar un enlace a la licencia e indicar si se realizaron cambios.
+
+[Descargar o Ver Manual en PDF](Manual_1_1_digital.pdf)
